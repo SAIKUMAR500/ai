@@ -1,0 +1,13 @@
+
+# This file includes the libraries we will need for the entire project
+
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+requests
+python-dotenv
+plotly
